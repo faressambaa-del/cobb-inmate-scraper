@@ -3,8 +3,6 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "apify": "^3.0.0",
-    "got": "^13.0.0",
-    "cheerio": "^1.0.0-rc.12"
+    "apify": "^3.0.0"
   }
 }
